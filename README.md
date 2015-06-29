@@ -13,4 +13,4 @@ copy the batch file to in the repository to
 
 .\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 
-this will make the script to the task to run at the time of user login
+this will make the script to run at the time of user login
