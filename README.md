@@ -1,4 +1,5 @@
 Majority of the scripts in this repository will we written in python :)
+
 so install the latest version of python from 
 https://www.python.org/downloads/
 
